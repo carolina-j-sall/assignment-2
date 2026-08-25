@@ -1,0 +1,30 @@
+html {
+  margin: 0, auto;
+  padding: 1.5em;
+  background-color: beige;
+}
+body {
+  line-height: 1.5;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
+h1 {
+  color: #0109FF;
+}
+hr.dotted {
+  border-top: 2px dotted #0109FF;
+}
+li {
+  margin: 0.5em;
+}
+span {
+  color: #0109FF;
+  border: 2px dotted rgb(0, 8, 255);
+  padding: 0.2em 0.4em;
+  border-radius: 10%;
+}
+img {
+  margin: 1em;
+  width: 350px;
+  height: auto;
+}
